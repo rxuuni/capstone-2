@@ -1,0 +1,45 @@
+.backk{
+    width: 100%;
+    background-color: #1B3C53;
+}
+
+.fonth{
+     font-family: "Montagu Slab", serif;
+     
+    color: #D2C1B6;
+}
+.fonthh{
+     font-family:  serif;
+
+     font-weight: 900;
+     
+    color: #F9F3EF;
+}
+
+.fontp{
+    color: #a3e8f9;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.photo{
+    border-radius: 50%;
+}
+
+.icon-square {
+  width: 3rem;
+  height: 3rem;
+  border-radius: .75rem;
+}
+
+#listPage{
+    background-color:#1e374a;
+}
+
+.projLink{
+    text-decoration: none;
+    color: black;
+}
+
+#footer{
+    background-color:  #D2C1B6;
+}
